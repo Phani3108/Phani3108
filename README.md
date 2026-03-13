@@ -21,7 +21,11 @@ I build production-grade AI systems, take them to market, and open-source everyt
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Phani3108&style=for-the-badge&color=1f6feb&label=PROFILE+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=Phani3108&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS"/>
+&nbsp;
+<a href="https://github.com/Phani3108?tab=followers"><img src="https://img.shields.io/github/followers/Phani3108?style=for-the-badge&color=238636&label=FOLLOWERS"/></a>
+&nbsp;
+<img src="https://img.shields.io/github/stars/Phani3108?style=for-the-badge&color=d29922&label=TOTAL+STARS&affiliations=OWNER"/>
 
 </div>
 
