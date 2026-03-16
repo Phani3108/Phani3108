@@ -66,22 +66,29 @@ Full-stack AI Operating System — orchestration, governance, memory & observabi
 
 ```mermaid
 graph LR
-    Lab["🧪 Phani Systems Lab"] --> E["🏢 Enterprise AI — 7"]
-    Lab --> D["⚙️ DevOps & Governance — 5"]
-    Lab --> F["💳 Fintech — 3"]
-    Lab --> P["📬 Productivity — 3"]
-    Lab --> X["🛠 SaaS · DX · New — 4"]
-    E --> E1["GenAI Console"] & E2["Agent OS"] & E3["Banking Analyzer"] & E4["Strategy Lab"] & E5["VertexAI Arch Gen"] & E6["Platform Comparator"] & E7["Cost Calculator"]
-    D --> D1["Agent Guard"] & D2["InfraGuard"] & D3["Pulse"] & D4["Sentinel"] & D5["Aegis"]
-    F --> F1["PFolio"] & F2["Robo-Advisor"] & F3["Pixel-Pulse"]
-    P --> P1["Atlas"] & P2["Pluto"] & P3["Vexa"]
-    X --> X1["SaaS Coach"] & X2["Release Notes"] & X3["Agent Monitor"] & X4["Electron"]
+    Lab["🧪 Phani Systems Lab"] --- E["🏢 Enterprise AI"]
+    Lab --- D["⚙️ DevOps"]
+    Lab --- F["💳 Fintech"]
+    Lab --- P["📬 Productivity"]
+    Lab --- X["🛠 Other"]
+
+    E --- E1["GenAI Console · Agent OS · Banking Analyzer\nStrategy Lab · VertexAI Arch · Comparator · Cost Calc"]
+    D --- D1["Agent Guard · InfraGuard · Pulse\nSentinel · Aegis"]
+    F --- F1["PFolio · Robo-Advisor · Pixel-Pulse"]
+    P --- P1["Atlas · Pluto · Vexa"]
+    X --- X1["SaaS Coach · Release Notes\nAgent Monitor · Electron"]
+
     style Lab fill:#1f6feb,stroke:none,color:#fff
     style E fill:#238636,stroke:none,color:#fff
     style D fill:#da3633,stroke:none,color:#fff
     style F fill:#d29922,stroke:none,color:#fff
     style P fill:#1f6feb,stroke:none,color:#fff
     style X fill:#8b5cf6,stroke:none,color:#fff
+    style E1 fill:#0d1117,stroke:#238636,color:#c9d1d9
+    style D1 fill:#0d1117,stroke:#da3633,color:#c9d1d9
+    style F1 fill:#0d1117,stroke:#d29922,color:#c9d1d9
+    style P1 fill:#0d1117,stroke:#1f6feb,color:#c9d1d9
+    style X1 fill:#0d1117,stroke:#8b5cf6,color:#c9d1d9
 ```
 
 #### 🏢 Enterprise AI
@@ -133,40 +140,9 @@ graph LR
 
 ---
 
-### 📅 Contribution Timeline
+### � Stats & Activity
 
-> All contributions since account creation. Every commit — including AI-assisted and system-generated — is authored under this account.
-
-| Date | Activity | Details |
-|:-----|:---------|:--------|
-| **Feb 1** | 🚀 Joined GitHub + 12 repos created | Aegis, Atlas, Pulse, Sentinel, Pluto, Pixel-Pulse, Robo-Advisor, InfraGuard, SaaS-Coach, Release-Notes-Composer, Agent-Guard, Agent-Monitor-Qualifier — all with initial codebases |
-| **Feb 20** | 📱 Created Vexa | AI call assistant with spam handling, multi-language support, live transcription |
-| **Mar 3** | 🔧 Vexa development | 2 commits — major feature additions to call screening engine |
-| **Mar 4** | 💰🔍 Created GenAI Cost Calculator + AI Platform Comparator | 2 new repos + 3 commits — initial evaluation engines and cost modeling |
-| **Mar 5** | 🏗 Massive build day — 4 repos + 9 commits | Created VertexAI Architecture Generator, Enterprise AI Analyzer — Banking, AI Product Strategy Lab, Enterprise GenAI Console — full flagship suite shipped |
-| **Mar 6** | 📄 Profile README created | Phani3108 profile repo initialized |
-| **Mar 7** | ✏️ Profile updates | 2 commits — README structure and content refinement |
-| **Mar 9** | 🧠 Enterprise Agent OS + mass update — 23 commits | Created EAOS with full agent orchestration. Pushed updates across all 20+ repos — descriptions, READMEs, code refinements. Made Vexa and EAOS public |
-| **Mar 10** | 🔄 EAOS development | 2 commits — initial platform architecture, agent coordination layer |
-| **Mar 11** | 🔄 EAOS development | 2 commits — skill marketplace, workflow engine foundations |
-| **Mar 12** | 🔄 EAOS development | 3 commits — DAG workflows, tool connector framework |
-| **Mar 13** | ✏️ Profile README overhaul | 3 commits — complete README restructure with mermaid diagrams |
-| **Mar 14** | 🔄 EAOS development | 5 commits — SOMAN marketing agent graph, governance dashboard, tool connectors |
-| **Mar 15** | 🔄 EAOS development | 5 commits — observability layer, memory graph, control plane refinements |
-| **Mar 16** | ⚡ Created Electron + README overhaul | New project repository initialized, profile README fully restructured |
-
-<p align="center"><b>Total: 50+ contributions</b> across 22 projects since Feb 1, 2026</p>
-
-<!-- Activity graph updates automatically with every new commit -->
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Phani3108&theme=github-compact&hide_border=true&height=250&area=true&custom_title=Commit%20Activity"/>
-</p>
-
----
-
-### 📊 Stats & Stack
-
-<!-- Stats use cache_seconds=1800 for 30-min refresh — updates automatically, no re-deploy needed -->
+<!-- All stats auto-refresh via cache_seconds=1800 (30 min). Activity graph updates on every commit. -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Phani3108&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="170"/>
 &nbsp;&nbsp;
@@ -175,6 +151,10 @@ graph LR
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Phani3108&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Phani3108&theme=github-compact&hide_border=true&height=250&area=true&custom_title=Commit%20Activity"/>
 </p>
 
 <p align="center">
