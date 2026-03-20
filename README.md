@@ -12,6 +12,9 @@
 I build production-grade AI systems, take them to market, and open-source everything.
 
 **22 open-source projects** &nbsp;·&nbsp; **6 interconnected AI platforms** &nbsp;·&nbsp; **Full-stack, end-to-end**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=typescript,python,javascript,nextjs,react,nodejs,gcp,docker,postgres,cosmoddb,mongodb,kafka,github,cursor,openai,gemini,claude,antigravitytailwind&perline=12"/>
+</p>
 
 <a href="https://phanimarupaka.netlify.app"><img src="https://img.shields.io/badge/Website-000?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/phani-marupaka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
@@ -157,9 +160,7 @@ graph LR
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phani3108&theme=github-compact&hide_border=true&height=250&area=true&custom_title=Commit%20Activity"/>
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=typescript,python,javascript,nextjs,react,nodejs,gcp,docker,postgres,kafka,github,tailwind&perline=12"/>
-</p>
+
 
 ---
 
