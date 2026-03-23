@@ -11,7 +11,7 @@
 **14+ years** shipping products across consulting, enterprise sales & engineering.<br/>
 I build production-grade AI systems, take them to market, and open-source everything.
 
-**22 open-source projects** &nbsp;·&nbsp; **6 interconnected AI platforms** &nbsp;·&nbsp; **Full-stack, end-to-end**
+**27 open-source projects** &nbsp;·&nbsp; **6 interconnected AI platforms** &nbsp;·&nbsp; **Full-stack, end-to-end**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=typescript,python,javascript,nextjs,react,nodejs,gcp,docker,postgres,cosmoddb,mongodb,kafka,github,cursor,openai,gemini,claude,antigravitytailwind&perline=12"/>
 </p>
