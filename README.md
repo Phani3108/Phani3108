@@ -1,4 +1,4 @@
-<!-- LAST_UPDATED: 2026-03-27T12:45:03Z -->
+<!-- LAST_UPDATED: 2026-03-27T21:40:00Z -->
 <!-- Stats auto-refresh via cache_seconds=1800 — no manual re-deployment needed -->
 <!-- Activity graph, streak stats & contribution cards update automatically on every commit -->
 
@@ -13,7 +13,7 @@ I build production-grade AI systems, take them to market, and open-source everyt
 
 **27 open-source projects, 7 private projects** &nbsp;·&nbsp; **6 interconnected AI platforms** &nbsp;·&nbsp; **Full-stack, end-to-end**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=typescript,python,javascript,nextjs,react,nodejs,google cloud provider,docker,postgres,cosmosdb,mongo,apachekafka,aws,azure,streamlit,github,cursorai,openai,googlegemini,anthropic,googleantigravity,tailwind&perline=12"/>
+<img src="https://skillicons.dev/icons?i=typescript,python,javascript,nextjs,react,nodejs,gcp,docker,postgres,mongo,kafka,aws,azure,github,tailwind&perline=15"/>
 </p>
 
 <a href="https://phanimarupaka.netlify.app"><img src="https://img.shields.io/badge/Website-000?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
@@ -65,7 +65,7 @@ Full-stack AI Operating System — orchestration, governance, memory & observabi
 
 ---
 
-### 🌌 Full Systems Universe — 22 Projects
+### 🌌 Full Systems Universe — 27 Projects
 
 ```mermaid
 graph LR
@@ -75,11 +75,11 @@ graph LR
     Lab --- P["📬 Productivity"]
     Lab --- X["🛠 Other"]
 
-    E --- E1["GenAI Console · Agent OS · Banking Analyzer\nStrategy Lab · VertexAI Arch · Comparator · Cost Calc"]
-    D --- D1["Agent Guard · InfraGuard · Pulse\nSentinel · Aegis"]
-    F --- F1["PFolio · Robo-Advisor · Pixel-Pulse"]
+    E --- E1["GenAI Console · Agent OS · Banking Analyzer\nStrategy Lab · VertexAI Arch · Comparator · Cost Calc · DealFrame"]
+    D --- D1["Agent Guard · InfraGuard · Pulse\nSenet · Aegis · Sentinel-AI · AegisAI"]
+    F --- F1["PFolio · Robo-Advisor · Pixel-Pulse · MyTrade"]
     P --- P1["Atlas · Pluto · Vexa"]
-    X --- X1["SaaS Coach · Release Notes\nAgent Monitor · Electron"]
+    X --- X1["SaaS Coach · Release Notes\nAgent Monitor · Cortex"]
 
     style Lab fill:#1f6feb,stroke:none,color:#fff
     style E fill:#238636,stroke:none,color:#fff
@@ -105,6 +105,7 @@ graph LR
 | 🏗 | [**VertexAI Architecture Generator**](https://github.com/Phani3108/VertexAIArchitectureGenerator) | Production-grade Vertex AI architectures — diagrams, blueprints, security plans, cost estimates | TypeScript, Next.js, Mermaid, SQLite |
 | 🔍 | [**AI Platform Comparator**](https://github.com/Phani3108/AIPlatformComparator) | Compare Vertex AI vs Azure OpenAI vs Bedrock — 5 evaluation engines, scoring, lock-in analysis | TypeScript, Next.js |
 | 💰 | [**GenAI Cost Calculator**](https://github.com/Phani3108/GenAICostCalulator) | Estimate infrastructure, model & RAG costs before deploying enterprise AI | TypeScript, Next.js |
+| 🎯 | [**DealFrame**](https://github.com/Phani3108/DealFrame) | Turn any recorded call, demo, or meeting into structured, machine-readable intelligence | Python |
 
 #### ⚙️ DevOps & Governance
 
@@ -113,8 +114,10 @@ graph LR
 | 🚨 | [**Agent Guard**](https://github.com/Phani3108/Agent-Guard) | AI control layer — triages incidents, routes decisions, triggers auto-remediation | Python |
 | 🛡 | [**InfraGuard**](https://github.com/Phani3108/InfraGuard) | Detects drift, latency spikes & hidden infrastructure fragility | Python |
 | 📡 | [**Pulse**](https://github.com/Phani3108/Pulse) | Turns raw logs & telemetry into early warning signals with anomaly detection | TypeScript |
-| 🔒 | [**Sentinel**](https://github.com/Phani3108/Sentinel) | Real-time compliance monitoring — policy engines, audit trails, AI reasoning | TypeScript |
+| 🔒 | [**Senet**](https://github.com/Phani3108/Senet) | Real-time compliance monitoring — policy engines, audit trails, AI reasoning | TypeScript |
 | 🔐 | [**Aegis**](https://github.com/Phani3108/Aegis) | API governance — schema validation, policy enforcement, cross-service contract safety | TypeScript |
+| 👁 | [**Sentinel-AI**](https://github.com/Phani3108/Sentinel-AI) | Fully local multimodal inference pipeline — Images & video → Vision Model → LLM → RAG | Python |
+| 🛡 | [**AegisAI**](https://github.com/Phani3108/AegisAI) | Local multimodal pipeline — vision → LLM → RAG, zero data leaves your infrastructure | Python |
 
 #### 💳 Fintech
 
@@ -123,6 +126,7 @@ graph LR
 | 💰 | [**PFolio**](https://github.com/Phani3108/PFolio) | Unifies assets, liabilities & cash flow across countries — true net worth | TypeScript |
 | 🤖 | [**Robo-Advisor**](https://github.com/Phani3108/Robo-Advisor) | Builds, monitors & rebalances investment portfolios intelligently | Python |
 | 💳 | [**Pixel-Pulse**](https://github.com/Phani3108/Pixel-Pulse) | Card issuer engagement — behavioral signals trigger smarter rewards | JavaScript |
+| 📊 | [**MyTrade**](https://github.com/Phani3108/MyTrade) | Multi-Agent LLM Trading Recommendation Engine — AI-driven portfolio intelligence | Python |
 
 #### 📬 Productivity & Communication
 
@@ -139,11 +143,11 @@ graph LR
 | 📈 | [**SaaS Coach**](https://github.com/Phani3108/SaaS-Coach) | Surfaces churn & growth levers — integrates CRM, usage analytics, retention modeling | Python |
 | 📝 | [**Release Notes Composer**](https://github.com/Phani3108/Release-Notes-Composer) | Auto-generates structured, audience-ready release notes from raw commits | JavaScript |
 | 🔬 | [**Agent-Monitor-Qualifier**](https://github.com/Phani3108/Agent-Monitor-Qualifier) | Agent quality monitoring and evaluation framework | Python |
-| ⚡ | [**Electron**](https://github.com/Phani3108/Electron) | New project — in development | JavaScript |
+| ⚙️ | [**Cortex**](https://github.com/Phani3108/Cortex) | Universal context engine — one config compiles into native files for 9 AI coding tools | JavaScript |
 
 ---
 
-### � Stats & Activity
+### 📈 Stats & Activity
 
 <!-- All stats auto-refresh via cache_seconds=1800 (30 min). Activity graph updates on every commit. -->
 <p align="center">
