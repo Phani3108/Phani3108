@@ -100,11 +100,6 @@ graph LR
 |:-:|:--------|:-------------|:------|
 | 🎛 | [**Enterprise GenAI Console**](https://github.com/Phani3108/Enterprise-GenAI-Console) | Google-Labs-style decision system — 5 agents, scenario studio, counterfactual simulator | TypeScript, Next.js, Zustand, ReactFlow |
 | 🧠 | [**Enterprise Agent OS**](https://github.com/Phani3108/Enterprise-Agent-OS) | Full-stack AI OS — 12+ agents, DAG workflows, SOMAN marketing graph, 22 connectors | TypeScript, Next.js, LangGraph, PostgreSQL |
-| 📊 | [**Enterprise AI Analyzer — Banking**](https://github.com/Phani3108/Enterprise-AI-Analyzer---Banking) | Evaluate AI maturity and deployment risks for financial institutions | TypeScript, Next.js |
-| 🚀 | [**AI Product Strategy Lab**](https://github.com/Phani3108/AI-Product-Strategy-Lab---Financial-Institutions) | Design, evaluate & launch AI products for banking — structured strategy lab | TypeScript, Next.js |
-| 🏗 | [**VertexAI Architecture Generator**](https://github.com/Phani3108/VertexAIArchitectureGenerator) | Production-grade Vertex AI architectures — diagrams, blueprints, security plans, cost estimates | TypeScript, Next.js, Mermaid, SQLite |
-| 🔍 | [**AI Platform Comparator**](https://github.com/Phani3108/AIPlatformComparator) | Compare Vertex AI vs Azure OpenAI vs Bedrock — 5 evaluation engines, scoring, lock-in analysis | TypeScript, Next.js |
-| 💰 | [**GenAI Cost Calculator**](https://github.com/Phani3108/GenAICostCalulator) | Estimate infrastructure, model & RAG costs before deploying enterprise AI | TypeScript, Next.js |
 | 🎯 | [**DealFrame**](https://github.com/Phani3108/DealFrame) | Turn any recorded call, demo, or meeting into structured, machine-readable intelligence | Python |
 
 #### ⚙️ DevOps & Governance
@@ -112,10 +107,8 @@ graph LR
 | | Project | What it does | Stack |
 |:-:|:--------|:-------------|:------|
 | 🚨 | [**Agent Guard**](https://github.com/Phani3108/Agent-Guard) | AI control layer — triages incidents, routes decisions, triggers auto-remediation | Python |
-| 🛡 | [**InfraGuard**](https://github.com/Phani3108/InfraGuard) | Detects drift, latency spikes & hidden infrastructure fragility | Python |
 | 📡 | [**Pulse**](https://github.com/Phani3108/Pulse) | Turns raw logs & telemetry into early warning signals with anomaly detection | TypeScript |
 | 🔒 | [**Senet**](https://github.com/Phani3108/Senet) | Real-time compliance monitoring — policy engines, audit trails, AI reasoning | TypeScript |
-| 🔐 | [**Aegis**](https://github.com/Phani3108/Aegis) | API governance — schema validation, policy enforcement, cross-service contract safety | TypeScript |
 | 👁 | [**Sentinel-AI**](https://github.com/Phani3108/Sentinel-AI) | Fully local multimodal inference pipeline — Images & video → Vision Model → LLM → RAG | Python |
 | 🛡 | [**AegisAI**](https://github.com/Phani3108/AegisAI) | Local multimodal pipeline — vision → LLM → RAG, zero data leaves your infrastructure | Python |
 
@@ -124,7 +117,6 @@ graph LR
 | | Project | What it does | Stack |
 |:-:|:--------|:-------------|:------|
 | 💰 | [**PFolio**](https://github.com/Phani3108/PFolio) | Unifies assets, liabilities & cash flow across countries — true net worth | TypeScript |
-| 🤖 | [**Robo-Advisor**](https://github.com/Phani3108/Robo-Advisor) | Builds, monitors & rebalances investment portfolios intelligently | Python |
 | 💳 | [**Pixel-Pulse**](https://github.com/Phani3108/Pixel-Pulse) | Card issuer engagement — behavioral signals trigger smarter rewards | JavaScript |
 | 📊 | [**MyTrade**](https://github.com/Phani3108/MyTrade) | Multi-Agent LLM Trading Recommendation Engine — AI-driven portfolio intelligence | Python |
 
@@ -132,7 +124,6 @@ graph LR
 
 | | Project | What it does | Stack |
 |:-:|:--------|:-------------|:------|
-| 📞 | [**Atlas**](https://github.com/Phani3108/Atlas) | AI call assistant — answers calls autonomously, delivers structured summaries | TypeScript |
 | 📬 | [**Pluto**](https://github.com/Phani3108/Pluto) | Email intelligence — converts inbox chaos into prioritized decisions & tracked actions | TypeScript |
 | 📱 | [**Vexa**](https://github.com/Phani3108/Vexa) | AI call screening — handles spam, insurance pitches & unknown calls with live transcripts | TypeScript |
 
