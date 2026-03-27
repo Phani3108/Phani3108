@@ -108,7 +108,6 @@ graph LR
 |:-:|:--------|:-------------|:------|
 | 🚨 | [**Agent Guard**](https://github.com/Phani3108/Agent-Guard) | AI control layer — triages incidents, routes decisions, triggers auto-remediation | Python |
 | 📡 | [**Pulse**](https://github.com/Phani3108/Pulse) | Turns raw logs & telemetry into early warning signals with anomaly detection | TypeScript |
-| 🔒 | [**Senet**](https://github.com/Phani3108/Senet) | Real-time compliance monitoring — policy engines, audit trails, AI reasoning | TypeScript |
 | 👁 | [**Sentinel-AI**](https://github.com/Phani3108/Sentinel-AI) | Fully local multimodal inference pipeline — Images & video → Vision Model → LLM → RAG | Python |
 | 🛡 | [**AegisAI**](https://github.com/Phani3108/AegisAI) | Local multimodal pipeline — vision → LLM → RAG, zero data leaves your infrastructure | Python |
 
