@@ -13,7 +13,7 @@ I build production-grade AI systems, take them to market, and open-source everyt
 
 **27 open-source projects, 7 private projects** &nbsp;·&nbsp; **6 interconnected AI platforms** &nbsp;·&nbsp; **Full-stack, end-to-end**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=typescript,python,javascript,nextjs,react,nodejs,gcp,docker,postgres,cosmosdb,mongo,apachekafka,github,cursorai,openai,googlegemini,anthropic,googleantigravity,tailwind&perline=12"/>
+<img src="https://skillicons.dev/icons?i=typescript,python,javascript,nextjs,react,nodejs,gcp,docker,postgres,cosmosdb,mongo,apachekafka,aws,azure,streamlit,github,cursorai,openai,googlegemini,anthropic,googleantigravity,tailwind&perline=12"/>
 </p>
 
 <a href="https://phanimarupaka.netlify.app"><img src="https://img.shields.io/badge/Website-000?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
