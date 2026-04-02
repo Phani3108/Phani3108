@@ -16,7 +16,7 @@ I build production-grade AI systems, take them to market, and open-source everyt
 <img src="https://skillicons.dev/icons?i=typescript,python,javascript,nextjs,react,nodejs,gcp,docker,postgres,mongo,kafka,aws,azure,github,tailwind&perline=15"/>
 </p>
 
-<a href="https://phanimarupaka.netlify.app"><img src="https://img.shields.io/badge/Website-000?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
+<a href="https://phani-resume.vercel.app"><img src="https://img.shields.io/badge/Website-000?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/phani-marupaka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://phanimarupaka.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>&nbsp;
 <a href="https://x.com/phani_teja"><img src="https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white"/></a>&nbsp;
