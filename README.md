@@ -170,7 +170,6 @@ graph LR
 
 | | Project | What it does | Tech |
 |:-:|:--------|:-------------|:-----|
-| 🏭 | [**ZIMA**](https://github.com/Phani3108/ZIMA) | Autonomous marketing agency — 13 agents, A2A protocol, learning engine, Teams bot | Python, FastAPI, LangGraph, Azure OpenAI, Cosmos DB, Qdrant |
 | 🔮 | [**Recall**](https://github.com/Phani3108/Recall) | AI-native Work OS — Ask (RAG chat), Pilot (delegation agent), Flow (task engine) | Python, FastAPI, Next.js, Weaviate, LiteLLM, PostgreSQL |
 | 🧬 | [**Einstein**](https://github.com/Phani3108/Einstein) | Personal semantic engine — transforms scattered notes into a searchable knowledge base | Python, FastAPI, Pinecone, OpenAI, PostgreSQL |
 | 🤖 | [**Cadbury**](https://github.com/Phani3108/Cadbury) | Consumer AI delegation layer — specialized delegates for distinct life domains | TypeScript, Next.js |
