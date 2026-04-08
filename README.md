@@ -170,18 +170,11 @@ graph LR
 
 | | Project | What it does | Tech |
 |:-:|:--------|:-------------|:-----|
-| 🧠 | [**Enterprise Agent OS**](https://github.com/Phani3108/Enterprise-Agent-OS) | AI Operating System — 53 agents, DAG workflows, SOMAN marketing graph, 150+ APIs | TypeScript, Next.js, LangGraph, AutoGen, PostgreSQL |
-| 🎛 | [**Enterprise GenAI Console**](https://github.com/Phani3108/Enterprise-GenAI-Console) | Google-Labs-style decision system — 5 agents, scenario studio, counterfactual simulator | TypeScript, Next.js, Zustand, ReactFlow |
 | 🏭 | [**ZIMA**](https://github.com/Phani3108/ZIMA) | Autonomous marketing agency — 13 agents, A2A protocol, learning engine, Teams bot | Python, FastAPI, LangGraph, Azure OpenAI, Cosmos DB, Qdrant |
 | 🔮 | [**Recall**](https://github.com/Phani3108/Recall) | AI-native Work OS — Ask (RAG chat), Pilot (delegation agent), Flow (task engine) | Python, FastAPI, Next.js, Weaviate, LiteLLM, PostgreSQL |
 | 🧬 | [**Einstein**](https://github.com/Phani3108/Einstein) | Personal semantic engine — transforms scattered notes into a searchable knowledge base | Python, FastAPI, Pinecone, OpenAI, PostgreSQL |
 | 🤖 | [**Cadbury**](https://github.com/Phani3108/Cadbury) | Consumer AI delegation layer — specialized delegates for distinct life domains | TypeScript, Next.js |
 | 🎯 | [**DealFrame**](https://github.com/Phani3108/dealframe) | Video → negotiation intelligence — turns calls & demos into machine-readable intel | Python |
-| 📊 | [**Enterprise AI Analyzer**](https://github.com/Phani3108/Enterprise-AI-Analyzer---Banking) | Evaluate AI maturity and deployment risks for financial institutions | TypeScript, Next.js |
-| 🚀 | [**AI Product Strategy Lab**](https://github.com/Phani3108/AI-Product-Strategy-Lab---Financial-Institutions) | Design, evaluate & launch AI products for banking | TypeScript, Next.js |
-| 🏗 | [**VertexAI Architecture Generator**](https://github.com/Phani3108/VertexAIArchitectureGenerator) | Production-grade Vertex AI architectures with diagrams, blueprints & cost estimates | TypeScript, Next.js, Mermaid |
-| 🔍 | [**AI Platform Comparator**](https://github.com/Phani3108/AIPlatformComparator) | Compare Vertex AI vs Azure OpenAI vs Bedrock — 5 evaluation engines, lock-in analysis | TypeScript, Next.js |
-| 💰 | [**GenAI Cost Calculator**](https://github.com/Phani3108/GenAICostCalulator) | Estimate infrastructure, model & retrieval costs before deploying enterprise AI | TypeScript, Next.js |
 
 #### 🤖 Agent Infrastructure & Protocols
 
@@ -196,12 +189,9 @@ graph LR
 | | Project | What it does | Tech |
 |:-:|:--------|:-------------|:-----|
 | 🚨 | [**Agent Guard**](https://github.com/Phani3108/Agent-Guard) | AI control layer — triages incidents, routes decisions, triggers auto-remediation | Python |
-| 🛡 | [**InfraGuard**](https://github.com/Phani3108/InfraGuard) | Detects drift, latency spikes & hidden infrastructure fragility | Python |
 | 📡 | [**Pulse**](https://github.com/Phani3108/Pulse) | Turns raw logs & telemetry into early warning signals with anomaly detection | TypeScript |
 | 🛡 | [**Senet**](https://github.com/Phani3108/Senet) | Real-time compliance monitoring — policy engines, audit trails, AI guardrails | TypeScript |
-| 🔐 | [**Aegis**](https://github.com/Phani3108/Aegis) | API governance — schema validation, policy enforcement, cross-service contract safety | TypeScript |
 | 👁 | [**Sentinel-AI**](https://github.com/Phani3108/Sentinel-AI) | Fully local multimodal inference — Images & video → Vision Model → LLM → RAG | Python |
-| 🛡 | [**AegisAI**](https://github.com/Phani3108/AegisAI) | Local multimodal pipeline with enterprise privacy — zero data leaves your infra | Python |
 
 #### 💳 Fintech & Investment
 
