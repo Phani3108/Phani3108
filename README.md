@@ -10,7 +10,7 @@
 **14+ years** across consulting, enterprise sales & full-stack engineering.<br/>
 I build **production-grade AI agent systems**, ship them to market, and open-source everything.
 
-**30 open-source projects** · **8 interconnected AI platforms** · **Full-stack, end-to-end**
+**38 open-source projects** · **11 interconnected AI platforms** · **Full-stack, end-to-end**
 
 ---
 
