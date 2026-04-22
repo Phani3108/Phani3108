@@ -22,7 +22,7 @@ I build production-grade AI agent systems, ship them to market, and open-source 
 &nbsp;
 <a href="https://github.com/Phani3108?tab=followers"><img src="https://img.shields.io/github/followers/Phani3108?style=flat-square&color=238636&label=Followers"/></a>
 &nbsp;
-<img src="https://img.shields.io/github/stars/Phani3108?style=flat-square&color=d29922&label=Stars&affiliations=OWNER"/>
+<img src="https://img.shields.io/github/stars/Phani3108?style=flat-square&color=d29922&label=Total+Stars&affiliations=OWNER"/>
 
 </div>
 
@@ -92,13 +92,9 @@ Google-Labs-style AI strategy console — 5 specialized agents evaluate platform
 
 `TypeScript` `Next.js` `Zustand` `ReactFlow` `Vertex AI`
 
-| Agent Repo | Role |
-|:-----------|:-----|
-| [VertexAI Architecture Generator](https://github.com/Phani3108/VertexAIArchitectureGenerator) | 🏗 Architecture blueprints |
-| [AI Platform Comparator](https://github.com/Phani3108/AIPlatformComparator) | 🔍 Platform evaluation |
-| [GenAI Cost Calculator](https://github.com/Phani3108/GenAICostCalulator) | 💰 Cost estimation |
-| [Enterprise AI Analyzer — Banking](https://github.com/Phani3108/Enterprise-AI-Analyzer---Banking) | 📊 Readiness assessment |
-| [AI Product Strategy Lab](https://github.com/Phani3108/AI-Product-Strategy-Lab---Financial-Institutions) | 🚀 GTM strategy |
+`TypeScript` `Next.js` `LangGraph` `AutoGen` `CrewAI` `PostgreSQL`
+
+**Surfaces:** Command Center · Skill Marketplace · Workflow Builder · Memory Graph · Governance Dashboard · Budget Intelligence · Innovation Labs
 
 </td>
 </tr>
@@ -198,10 +194,17 @@ graph LR
 
 #### ⚙️ DevOps, Security & Governance
 
-| | Project | What it does | Stack |
-|:-:|:--------|:-------------|:------|
+| | Project | What it does | Tech |
+|:-:|:--------|:-------------|:-----|
+| 🔬 | [**Cortex Protocol**](https://github.com/Phani3108/Turing-Cortex-Agent-Protocol) | Agent governance layer — define once, compile to 6 runtimes, enforce everywhere | Python, LangChain, LangGraph, Semantic Kernel |
+| ⚙️ | [**Cortex**](https://github.com/Phani3108/Cortex) | Universal context engine — one config compiles into native files for 9 AI coding tools | JavaScript |
+| 🔬 | [**Agent-Monitor-Qualifier**](https://github.com/Phani3108/Agent-Monitor-Qualifier) | CI/CD quality gate for AI agents — validates correctness, safety, determinism | Python |
+
+#### ⚙️ DevOps, Security & Governance
+
+| | Project | What it does | Tech |
+|:-:|:--------|:-------------|:-----|
 | 🚨 | [**Agent Guard**](https://github.com/Phani3108/Agent-Guard) | AI control layer — triages incidents, routes decisions, triggers auto-remediation | Python |
-| 🛡 | [**InfraGuard**](https://github.com/Phani3108/InfraGuard) | Detects drift, latency spikes & hidden infrastructure fragility | Python |
 | 📡 | [**Pulse**](https://github.com/Phani3108/Pulse) | Turns raw logs & telemetry into early warning signals with anomaly detection | TypeScript |
 | 🔒 | [**Senet**](https://github.com/Phani3108/Senet) | Real-time compliance monitoring — policy engines, audit trails, AI guardrails | TypeScript |
 | 🔐 | [**Aegis**](https://github.com/Phani3108/Aegis) | API governance — schema validation, policy enforcement, cross-service contract safety | TypeScript |
@@ -237,8 +240,8 @@ graph LR
 
 #### 🛠 SaaS & Developer Experience
 
-| | Project | What it does | Stack |
-|:-:|:--------|:-------------|:------|
+| | Project | What it does | Tech |
+|:-:|:--------|:-------------|:-----|
 | 📈 | [**SaaS Coach**](https://github.com/Phani3108/SaaS-Coach) | Surfaces churn & growth levers — integrates CRM, usage analytics, retention modeling | Python |
 | 📝 | [**Release Notes Composer**](https://github.com/Phani3108/Release-Notes-Composer) | Auto-generates structured, audience-ready release notes from raw commits | JavaScript |
 
