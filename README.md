@@ -10,7 +10,7 @@
 **14+ years** across consulting, enterprise sales & full-stack engineering.<br/>
 I build production-grade AI agent systems, ship them to market, and open-source everything.
 
-**37 open-source projects** &nbsp;·&nbsp; **4 flagship platforms** &nbsp;·&nbsp; **Full-stack, end-to-end**
+**37 open-source & 17 private projects** &nbsp;·&nbsp; **4 flagship platforms** &nbsp;·&nbsp; **Full-stack, end-to-end**
 
 <a href="https://phani-resume.vercel.app"><img src="https://img.shields.io/badge/Website-000?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/phani-marupaka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
