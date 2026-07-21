@@ -279,24 +279,9 @@ graph LR
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Phani3108&theme=github-compact&hide_border=true&height=250&area=true&custom_title=Commit%20Activity"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phani3108&theme=github_dark" width="100%"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Phani3108&theme=github_dark" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Phani3108&theme=github_dark" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Phani3108&theme=github_dark" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Phani3108&theme=github_dark&utcOffset=5.5" height="170"/>
-</p>
-
 ---
 
 <p align="center"><sub>If any of these projects are useful to you, a ⭐ goes a long way.</sub></p>
 
 <p align="center"><sub>© 2026 <a href="https://linkedin.com/in/phani-marupaka"><b>Phani Marupaka</b></a>. All rights reserved.</sub></p>
+
